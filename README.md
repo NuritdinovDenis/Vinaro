@@ -1,2 +1,2 @@
-# Vinora
+# Vinaro
 Operation system
