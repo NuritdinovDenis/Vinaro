@@ -22,7 +22,7 @@ Step 5: Enter the following commands to create a bootable disk image
 
 ```
 dd if=/dev/zero of=disk.img bs=1024 count=1440
-dd if=hello.bin of=disk.img conv=notrunc
+dd if=boot.bin of=disk.img conv=notrunc
 ```
 
 Step 6: Now you can start the system from a floppy disk image
